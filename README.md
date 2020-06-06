@@ -11,4 +11,10 @@ Everyone can add adaptations, suggestions, share and improve the work taking int
 
 # Version
 
-1.0.0 - 06/06/2020
+1.0.0 - 06/06/2020 (First Stable Version!)
+0.3.2 - 17/05/2020
+0.3.1 - 15/04/2020
+0.2.1 - 15/01/2020
+0.1.1 - 10/05/2019
+0.0.2 - 08/11/2018
+0.0.1 - 19/07/2018
