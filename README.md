@@ -8,3 +8,7 @@ IT: Protocollo di Sicurezza ISO 27 dagli Attacchi DDoS di Francesco Zoino è so
 EN: ISO 27 security protocol from DDoS attacks by Francesco Zoino is under CC BY-NC 4.0 license
 
 Everyone can add adaptations, suggestions, share and improve the work taking into account the license.
+
+# Version
+
+1.0.0 - 06/06/2020
